@@ -11,7 +11,7 @@ Software Used
 
 Test Machine
 
-    Windows 10 1809 Home Single Language
+    Microsoft Windows 10 1809 Home Single Language
 ---
 
 > A Cartoon is a type of illustration, possibly animated, typically in a non-realistic or semi-realistic style. The specific meaning has evolved over time, but the modern usage usually refers to either: an image or series of images intended for satire, caricature, or humor; or a motion picture that relies on a sequence of illustrations for its animation. Animation is a method in which pictures are manipulated to appear as moving images.
